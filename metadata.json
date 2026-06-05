@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Tecno Spark 20 Simulator",
+  "description": "An interactive, high-fidelity simulator and detailed specification explorer for the Tecno Spark 20 smartphone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
